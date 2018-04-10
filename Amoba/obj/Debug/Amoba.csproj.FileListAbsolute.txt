@@ -1,0 +1,8 @@
+D:\Adamusen\Visual Studio\Amoba\Amoba\obj\Debug\ResolveAssemblyReference.cache
+D:\Adamusen\Visual Studio\Amoba\Amoba\obj\Debug\Amoba.Form1.resources
+D:\Adamusen\Visual Studio\Amoba\Amoba\obj\Debug\Amoba.Properties.Resources.resources
+D:\Adamusen\Visual Studio\Amoba\Amoba\obj\Debug\Amoba.csproj.GenerateResource.Cache
+D:\Adamusen\Visual Studio\Amoba\Amoba\bin\Debug\Amoba.exe
+D:\Adamusen\Visual Studio\Amoba\Amoba\bin\Debug\Amoba.pdb
+D:\Adamusen\Visual Studio\Amoba\Amoba\obj\Debug\Amoba.exe
+D:\Adamusen\Visual Studio\Amoba\Amoba\obj\Debug\Amoba.pdb
